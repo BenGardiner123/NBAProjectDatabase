@@ -1,3 +1,2 @@
 # NBAProjectDatabase
-
-Database for Dream Team
+Database for NBA Dream Team
