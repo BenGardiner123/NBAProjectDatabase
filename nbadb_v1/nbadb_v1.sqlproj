@@ -57,4 +57,15 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Team.sql" />
+    <Build Include="NBAPlayer.sql" />
+    <Build Include="PlayerSelection.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="nbadb_v1.refactorlog" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DummyDataScript.sql" />
+  </ItemGroup>
 </Project>
