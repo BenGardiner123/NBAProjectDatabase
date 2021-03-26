@@ -1,4 +1,4 @@
-﻿CREATE TABLE NBAPlayer (
+﻿CREATE TABLE Player (
     [Season]            INT            NOT NULL,
     [PLAYER_ID]         INT            NOT NULL,
     [PLAYER_NAME]       VARCHAR (30)   NOT NULL,
