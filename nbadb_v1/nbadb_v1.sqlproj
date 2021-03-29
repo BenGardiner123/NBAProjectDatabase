@@ -66,7 +66,6 @@
     <RefactorLog Include="nbadb_v1.refactorlog" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="DummyDataScript.sql" />
-    <None Include="insert_current_year_player_data.sql" />
+    <None Include="LastFiveYearsPlayerData.sql" />
   </ItemGroup>
 </Project>
