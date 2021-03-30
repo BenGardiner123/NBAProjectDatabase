@@ -61,6 +61,7 @@
     <Build Include="Team.sql" />
     <Build Include="Player.sql" />
     <Build Include="PlayerSelection.sql" />
+    <Build Include="allPlayers.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="nbadb_v1.refactorlog" />
