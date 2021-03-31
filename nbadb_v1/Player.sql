@@ -1,7 +1,8 @@
 ﻿CREATE TABLE Player (
     [Season]            INT            NOT NULL,
     [PLAYER_ID]         INT            NOT NULL,
-    [PLAYER_NAME]       VARCHAR (30)   NOT NULL,
+    [FIRSTNAME]         VARCHAR (30)   NOT NULL,
+    [LASTNAME]          VARCHAR (30)   NOT NULL,
     [TEAM_ABBREVIATION] VARCHAR (3)    NOT NULL,
     [AGE]               INT            NOT NULL,
     [GP]                INT            NOT NULL,

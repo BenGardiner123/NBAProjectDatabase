@@ -68,5 +68,6 @@
   <ItemGroup>
     <None Include="LastFiveYearsPlayerData.sql" />
     <None Include="exampleUsageOfTheStoredProc.sql" />
+    <None Include="splitPlayerNameInformation.sql" />
   </ItemGroup>
 </Project>
